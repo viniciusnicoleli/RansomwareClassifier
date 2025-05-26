@@ -1,0 +1,21 @@
+columns_keepers:
+  - 'length' 
+  - 'weight' 
+  - 'count' 
+  - 'looped'
+  - 'neighbors' 
+  - 'income' 
+  - 'whichDayWeek'
+  - 'target'
+  - 'date_operation'
+
+columns_trainers:
+  - 'length' 
+  - 'weight' 
+  - 'count' 
+  - 'looped'
+  - 'neighbors' 
+  - 'income' 
+  - 'BTC'
+  - 'whichDayWeek'
+  - 'target'

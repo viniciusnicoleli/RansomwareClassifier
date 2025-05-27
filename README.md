@@ -1,4 +1,4 @@
-# 🚀 Ransonware Classifier | TRM Labs Extra mile
+# 🚀 Ransomware Classifier | TRM Labs Extra mile
 ___
 
 ### 🔹 **About this project**:

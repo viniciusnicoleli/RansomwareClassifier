@@ -7,6 +7,8 @@ This is a classifier to identify possible ransomware in Bitcoin transactions, ba
 
 https://www.kaggle.com/datasets/gopalmahadevan/bitcoin-heist-ransomware-address-dataset.
 
+Access the Dashboard: https://viniciusnicoleli.github.io/RansomwareClassifier/
+
 I chose this dataset because I wanted to research something that TRM Labs would be working on, based on their products and business focus. Ransomware is a problem in BTC transactions, and government organisations can take years to define addresses that may be criminal. This project seeks to help the FBI and such organisations identify malicious transactions faster and more efficiently based on Data Science.
 
 ![image](https://github.com/user-attachments/assets/3f1d00de-6ad5-4b44-b5f1-ce2457192d38)
